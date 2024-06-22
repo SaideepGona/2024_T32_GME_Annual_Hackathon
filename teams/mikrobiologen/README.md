@@ -1,6 +1,8 @@
 # Team Mikrobiologen: Katja, Rowan, and Matthias
 GME hackathon 2024
 
+### Python, Plotly and Dash
+
 ### Download data from google drive
 
 You need to download the data files required for our code to work from the shared google-drive at https://drive.google.com/drive/folders/1SW5ZxSBR1YK19u9U-wVbtRXx3GZqmzvu?usp=sharing . The data is in the subdirectory `data/Mikrobiologen`. Download the two files `metadata_filtered.csv` and `metagenomics.csv`, and put the into a subdirectory `data` in the current folder
