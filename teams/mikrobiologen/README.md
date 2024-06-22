@@ -1,4 +1,4 @@
-# Team Mikrobiologen: Katja, Rwoan, and Matthias
+# Team Mikrobiologen: Katja, Rowan, and Matthias
 GME hackathon 2024
 
 ### Download data from google drive
